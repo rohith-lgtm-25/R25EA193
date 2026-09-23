@@ -8,3 +8,8 @@ Hello! I am a computer science student interested in software development, progr
 - Practice Git and GitHub
 - Build practical projects
 - Learn modern development tools
+
+
+## Technologies
+
+I am exploring programming languages, development tools, APIs, and version control systems as part of my learning journey.
